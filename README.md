@@ -17,29 +17,16 @@
 </div> -->
 
 
-### A Student, Developer & Writer
+### A Student & Developer 
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
 
-- 👉 Leading [Flutter Islamabad][flutter_isb]
+- 👉 Leading [Flutter,React Native developer]
 - 💻 The tech I'm interested Flutter/ML etc.
-- ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare 1 Multiplayer
-- 📄 Live [Portfolio][profile]
-- 🎨 [Dribbble][dribbble] profile
+- ✨ I'm learning Flutter,ML etc.
 
-#### ✍ Medium Blog Posts
-
-<!-- MEDIUM-STORY-LIST:START -->
-- [Should I learn Dart before Flutter?](https://itnext.io/should-i-learn-dart-before-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
-- [Integrate Medium Blog Feed in Flutter App — MVC Architecture](https://itnext.io/integrate-medium-blog-feed-in-flutter-app-mvc-architecture-3e0b3c90bfa3?source=rss-198dec8dcf4a------2)
-- [Folio — Responsive Portfolio using Flutter 2.0](https://itnext.io/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f?source=rss-198dec8dcf4a------2)
-- [Flutter Roadmap &amp; Resource Guide — 2020](https://itnext.io/flutter-roadmap-resource-guide-2020-2ea6e4460a15?source=rss-198dec8dcf4a------2)
-- [Getting Most out of GitHub &amp; Stack Overflow — Flutter Beginner](https://mhmzdev.medium.com/getting-most-out-of-github-stack-overflow-flutter-beginner-5ad8ed01cdef?source=rss-198dec8dcf4a------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- ### Languages & Tools
